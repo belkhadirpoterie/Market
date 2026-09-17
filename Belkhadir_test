@@ -1,0 +1,18 @@
+SUPABASE_URL=https://ylcsjwfkufnltxqnakor.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlsY3Nqd2ZrdWZubHR4cW5ha29yIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4OTA3NjA0OCwiZXhwIjoyMTA0NjUyMDQ4fQ.JIBitB2RjNLLn46cyu2Qe3hcAuv5KVGUOqnWxYX-wMg
+
+VITE_SUPABASE_URL=https://ylcsjwfkufnltxqnakor.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlsY3Nqd2ZrdWZubHR4cW5ha29yIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODkwNzYwNDgsImV4cCI6MjEwNDY1MjA0OH0.5qxw0iHFNL8UK9QiF_Naggg9aqUlw4lFcEVjmFIkDm8
+
+ADMIN_USERNAME=Adnane_Belkhadir
+ADMIN_PASSWORD=051968
+
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=465
+SMTP_SECURE=true
+SMTP_USER=Belkhadirpoterie@gmail.com
+SMTP_PASSWORD=yjyqlfthjxpvpcqw
+SMTP_FROM_EMAIL=Belkhadirpoterie@gmail.com
+
+# URL réelle du serveur Express déployé, pas l’URL du preview Builder
+VITE_ADMIN_API_URL=poterie-belkhadur.netlify.app
